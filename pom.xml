@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jdbls</groupId>
-	<artifactId>sample-project</artifactId>
+	<artifactId>devops-automation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sample-project</name>
 	<description>Demo project for Spring Boot</description>
